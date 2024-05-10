@@ -3,4 +3,4 @@ this CDK implement react and node jS app using AWS
 
 # architecture
 
-![Two tier arch](images/arch.png"Title")
+![Two tier arch](images/arch.png)

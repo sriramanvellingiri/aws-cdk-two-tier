@@ -13,5 +13,5 @@ const app = new cdk.App();
 
 // Fargate stack
 new FargateDemoStack(app, "FargateDemoStack", {
-  env: { account: "869228520926", region: "us-east-1" },
+  env: { account: "12345678", region: "us-east-1" },
 });
